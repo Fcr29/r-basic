@@ -1,6 +1,7 @@
 #Esta línea no funciona, por ahora...
 #lm(y~x)
 
+#Inicio con el curso R y Python para estadística descriptiva.
 
 require(graphics)
 
